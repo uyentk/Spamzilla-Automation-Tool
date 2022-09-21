@@ -50,4 +50,4 @@ def App():
     wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "#exportModal > div > div > div.modal-body > form > a:nth-child(4)"))).click()
     time.sleep(50)
 
-
+App()

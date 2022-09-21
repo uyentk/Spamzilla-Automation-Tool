@@ -3,6 +3,6 @@ from automation import App
 
 def Spamzilla_Tool():
     data_analyse()
-    App("D:\Downloads\export-61508_2022-09-17-02-46-26.csv")
+    App("D:\ASM\SpamzillaExport\Spamzilla-Automation-Tool\data\exported_data.csv")
 
 Spamzilla_Tool()
